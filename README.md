@@ -1,2 +1,2 @@
-# Anez_Capstonr
+# Anez_Capstone
 Work on students location of high schools
